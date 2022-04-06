@@ -5,4 +5,9 @@
 - 👯 I’m looking to collaborate on leetcode problems
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i dont have any :(
+
+
+
+
+
 ![Lavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavibash&show_icons=true&theme=synthwave)
