@@ -30,4 +30,4 @@
 "https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"/></code> <code><img height="30" src=
 "https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png"/></code><code><img height="30" src=
 "<code><img height="30" src=
-"https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png"/></code> "/></code>  
+"https://imgs.search.brave.com/PIA0ycIgr-OTUG2-M1RoLOKAGoWm51rsXINnb1txQ4U/rs:fit:473:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5u/REtSaXkzYkZHNDRN/OEFtOEVCVE5RSGFI/YiZwaWQ9QXBp"/></code> "/></code>  
