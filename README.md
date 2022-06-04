@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i dont have any :(
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lavibash)](https://github.com/lavibash/github-profile-trophy)
 
 
 ![Lavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavibash&show_icons=true&theme=synthwave)
