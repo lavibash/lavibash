@@ -1,8 +1,8 @@
 ### Yo, Im Lavi Avigad 👋
 
 - 🔭 I’m currently working on my website
-- 🌱 I’m currently learning Node.js, and C++
-- 👯 I’m looking to collaborate on leetcode problems
+- 🌱 I’m currently learning machine learning concepts, and C++
+- 👯 I’m looking to get out of the hole im living in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i dont have any :(
 
