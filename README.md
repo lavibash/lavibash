@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i dont have any :(
 
-![](https://komarev.com/ghpvc/?lavibash=your-github-lavibash&color=green)
+![](https://komarev.com/ghpvc/?username=lavibash&color=green)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lavibash&theme=onedark)](https://github.com/lavibash/github-profile-trophy)
 
