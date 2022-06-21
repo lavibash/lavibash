@@ -8,6 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lavibash&theme=onedark)](https://github.com/lavibash/github-profile-trophy)
 
+![](https://komarev.com/ghpvc/?username=lavibash&color=green)
 
 ![Lavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavibash&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavibash&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,7 +23,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></code> 
 <code><img height="30" src="https://gitlab.com/uploads/-/system/project/avatar/14611100/kali-logo.png"/></code> <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg"/></code> 
 <code><img height="30" src="https://www.svgrepo.com/show/184140/android.svg"/></code> <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/></code> <code><img height="30" src="https://www.i-programmer.info/images/stories/News/2015/Mar/A/jupyter.jpg"/></code> <code><img height="30" src="https://seekvectors.com/storage/images/CoLaboratory-01.svg"/></code> <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/></code> <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/></code> <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></code> <code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"/></code> <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png"/></code> 
-![](https://komarev.com/ghpvc/?username=lavibash&color=green)
+
 
 
 
