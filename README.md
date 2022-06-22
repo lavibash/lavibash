@@ -1,7 +1,7 @@
 ### Yo, Im Lavi Avigad 👋
 
 - 🔭 I’m currently working on my website
-- 🌱 I’m currently learning machine learning concepts, and C++
+- 🌱 I’m currently learning ```ML```, and ```C++```
 - 👯 I’m looking to get out of the hole im living in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i dont have any :(
